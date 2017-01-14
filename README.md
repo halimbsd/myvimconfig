@@ -1,5 +1,5 @@
 # myvimconfig
-this is jusf for my old school vim editor profile config 
+this is just for my old school fav vim editor profile config 
 had to do this bc of my short term memory lost.
 
 chears
